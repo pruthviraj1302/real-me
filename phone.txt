@@ -1,0 +1,8 @@
+insert
+{
+uooal
+medipally
+boduppal
+tamilnadu
+}
+end
